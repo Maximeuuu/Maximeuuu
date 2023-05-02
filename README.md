@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Maximeuuu
+- 👋 Hi, I’m @Maximeuuu 
 - 🌱 Java, Bash, C, SQL, Python, HTML, CSS
+- 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
 - 📫 maxime.lemoine374@gmail.com
 
 <!---
