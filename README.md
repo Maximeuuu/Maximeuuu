@@ -4,7 +4,7 @@
 - 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
 - 📫 maxime.lemoine1@etu.univ-lehavre.fr  -  maxime.lemoine374@gmail.com
 
-my projects : [](https://maximeuuu.github.io/)
+my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
 
 > "I think I became a real developer the moment I voluntarily installed git on my pc"
 
