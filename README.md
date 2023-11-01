@@ -1,6 +1,7 @@
 - 👋 Hi, I’m [@Maximeuuu](https://github.com/Maximeuuu)
-- ❤️ Java, C++
-- 🌱 Bash, C, SQL, Kotlin, Python, HTML, CSS, PHP
+- ❤️ Java, C++, Bash
+- 🌱 C, SQL, Kotlin, Python, HTML, CSS, PHP
+- 💾 Arduino, Raspberry, Processing
 - 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
 - 📫 maxime.lemoine1@etu.univ-lehavre.fr  -  maxime.lemoine374@gmail.com
 
