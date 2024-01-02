@@ -1,0 +1,78 @@
+""""""""""""""""""""""""""""""""
+" Auteur : Maximeuuu
+""""""""""""""""""""""""""""""""
+
+"""
+" Général
+"""
+
+" Recharge un fichier quand il est changé ailleurs
+set autoread
+
+set autowrite
+
+set encoding=utf-8
+
+" set noswapfile
+
+set showmode
+
+set showcmd
+
+" packadd termdebug
+
+" autoriser la souris
+set mouse=a
+
+
+"""
+" Style
+"""
+
+" affiche les numéros de ligne
+set number
+
+" activer la coloration syntaxique
+syntax on
+
+" afficher les parenthèses fermantes
+set showmatch
+
+" afficher des couleurs sur les couples de parenthèses
+let g:rainbow_active=1
+
+" retour à la ligne
+set wrap
+set textwidth=80
+set colorcolumn+=1
+
+" surligner la ligne actuelle
+set cursorline
+
+" let g:jellybeans_background_color_256='NONE'
+
+" change le style de l'éditeur
+" colorscheme ...
+
+
+"""
+" Recherche
+"""
+
+" ignorer la casse lors des recherches
+set ignorecase
+set smartcase
+
+" déplacer le cursor sur les mots trouvés
+set incsearch
+
+
+"""
+" Indentation
+"""
+
+" taille des tabulations
+set tabstop=4
+
+" copie l'indentation de la ligne précédente
+set autoindent
