@@ -54,6 +54,9 @@ set cursorline
 " change le style de l'éditeur
 " colorscheme ...
 
+" afficher les caractères vides
+set list
+set listchars=tab:>—, eol:¬, trail:\ , nbsp:¤
 
 """
 " Recherche
