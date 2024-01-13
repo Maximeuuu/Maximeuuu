@@ -7,7 +7,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 maxime.lemoine1@etu.univ-lehavre.fr  -  maxime.lemoine374@gmail.com
+- 📫 maxime.lemoine1@etu.univ-lehavre.fr
+- 📧 maxime.lemoine374@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 - ❤️ Java, C++, Bash
