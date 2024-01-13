@@ -53,10 +53,10 @@
 		<div align="right">
 		  <h3 align="left">Stats:</h3>
 		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
+		  <!---<br>
+		  <img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maximeuuu&theme=ayu-mirage&hide_border=false" />--->
 		  <br>
-		  <img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maximeuuu&theme=ayu-mirage&hide_border=false" />
-		  <br>
-		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
+		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact" />
 		</div>
     </td>
   </tr>
