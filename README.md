@@ -51,7 +51,7 @@
     </td>
     <td style="text-align: right; border: none; vertical-align: top;">
 		<div align="right">
-		  <h3 align="right">Stats:</h3>
+		  <h3 align="left">Stats:</h3>
 		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=maximeuuu&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
 		  <br>
 		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximeuuu&layout=compact&langs_count=8&theme=radical" />
