@@ -8,7 +8,7 @@
 > "I think I became a real developer the moment I voluntarily installed git on my pc"
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div>
+  <div align="left">
     <h3 align="left">Connect with me:</h3>
     <ul>
       <li>📫 maxime.lemoine1@etu.univ-lehavre.fr</li>
@@ -16,7 +16,7 @@
     </ul>
   </div>
 
-  <div>
+  <div align="right">
     <h3 align="right">Test:</h3>
     <!-- Ajoutez ici le contenu de la section Test -->
   </div>
