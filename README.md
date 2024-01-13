@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; width:50%;">
 		<div align="left">
 		  <h3 align="left">Connect with me:</h3>
 		  <ul>
@@ -49,7 +49,7 @@
 		  </p>
 		</div>
     </td>
-    <td style="text-align: right; border: none; vertical-align: top;">
+    <td style="text-align: right; border: none; vertical-align: top; width:50%;">
 		<div align="right">
 		  <h3 align="left">Stats:</h3>
 		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
