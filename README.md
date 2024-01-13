@@ -1,5 +1,7 @@
 <h3 align="center">Maximeuuu</h3>
 
+<h3 align="left">About me:</h3>
+
 - 👋 Hi, I’m [@Maximeuuu](https://github.com/Maximeuuu)
 - 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
 - my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
