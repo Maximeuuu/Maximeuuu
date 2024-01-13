@@ -83,3 +83,17 @@
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
   </p>-->
 </div>
+
+<br>
+
+<div align="right">
+	<a href="https://www.linkedin.com/in/maxime-lemoine-ml/">
+		<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+	</a>
+	<a href="https://www.thingiverse.com/maximeuuu/designs/">
+		<img src="https://img.shields.io/badge/thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse">
+	</a>
+	<a href="https://maximeuuu.github.io/">
+		<img src="https://img.shields.io/badge/Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projets GitHub">
+	</a>
+</div>
