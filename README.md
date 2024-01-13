@@ -7,7 +7,7 @@
 - my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
 > "I think I became a real developer the moment I voluntarily installed git on my pc"
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table>
   <tr>
     <td style="border: none; vertical-align: top;">
 		<div align="left">
