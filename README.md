@@ -7,7 +7,7 @@
 - my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
 > "I think I became a real developer the moment I voluntarily installed git on my pc"
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div>
     <h3 align="left">Connect with me:</h3>
     <ul>
