@@ -1,15 +1,13 @@
 <h3 align="center">Maximeuuu</h3>
-<p align="left">
-  - 👋 Hi, I’m [@Maximeuuu](https://github.com/Maximeuuu)
-  - 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
-  - my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
-  > "I think I became a real developer the moment I voluntarily installed git on my pc"
-</p>
+
+- 👋 Hi, I’m [@Maximeuuu](https://github.com/Maximeuuu)
+- 👨‍🎓 Student at the IT department of the IUT of Le Havre in France
+- my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
+> "I think I became a real developer the moment I voluntarily installed git on my pc"
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  - 📫 maxime.lemoine1@etu.univ-lehavre.fr  -  maxime.lemoine374@gmail.com
-</p>
+- 📫 maxime.lemoine1@etu.univ-lehavre.fr  -  maxime.lemoine374@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 - ❤️ Java, C++, Bash
