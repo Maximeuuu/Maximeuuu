@@ -9,7 +9,7 @@
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
 		<div align="left">
 		  <h3 align="left">Connect with me:</h3>
 		  <ul>
@@ -49,12 +49,12 @@
 		  </p>
 		</div>
     </td>
-    <td style="text-align: right; border: none;">
+    <td style="text-align: right; border: none; vertical-align: top;">
 		<div align="right">
-		  <h3 align="right">Test:</h3>
-		  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=maximeuuu&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
+		  <h3 align="right">Stats:</h3>
+		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=maximeuuu&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
 		  <br>
-		  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximeuuu&layout=compact&langs_count=8&theme=radical" />
+		  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximeuuu&layout=compact&langs_count=8&theme=radical" />
 		</div>
     </td>
   </tr>
