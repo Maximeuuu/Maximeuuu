@@ -7,13 +7,20 @@
 - my projects : [https://maximeuuu.github.io/](https://maximeuuu.github.io/)
 > "I think I became a real developer the moment I voluntarily installed git on my pc"
 
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3 align="left">Connect with me:</h3>
+    <ul>
+      <li>📫 maxime.lemoine1@etu.univ-lehavre.fr</li>
+      <li>📧 maxime.lemoine374@gmail.com</li>
+    </ul>
+  </div>
 
-<h3 align="left">Connect with me:</h3>
-
-- 📫 maxime.lemoine1@etu.univ-lehavre.fr
-- 📧 maxime.lemoine374@gmail.com
-
-<h3 align="right">Test:</h3>
+  <div>
+    <h3 align="right">Test:</h3>
+    <!-- Ajoutez ici le contenu de la section Test -->
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
