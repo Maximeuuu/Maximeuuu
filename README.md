@@ -10,9 +10,9 @@
 
 <h3 align="left">Stats:</h3>
 <div align="center">
-  	<img src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=fr&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Maximeuuu&locale=fr&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximeuuu&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false&order=2" height="135" alt="languages graph"  />
+  	<img src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=fr&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Maximeuuu&locale=fr&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximeuuu&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 <div align="left">
