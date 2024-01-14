@@ -15,6 +15,16 @@
 	<img height="125" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt=" ♦️ "/>
 </div>
 
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=maximeuuu&theme=ayu-mirage&hide_border=true" />
+  <img src="" alt="pas d'image" />
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
+  <img src="" alt="pas d'image" />
+</picture>
+
 <div align="left">
   <h3>Languages and Tools:</h3>
 	
