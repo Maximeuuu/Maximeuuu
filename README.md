@@ -10,7 +10,7 @@
 
 <h3 align="left">Stats:</h3>
 <div align="center">
-	<picture>
+	<!--<picture>
   		<source height="125" align="center" srcset="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" alt="github stats" />
   		<img src="image/vide.png" />
 	</picture>
@@ -21,7 +21,10 @@
 	<picture>
   		<source height="125" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="used languages" />
   		<img src="image/vide.png" />
-	</picture>
+	</picture>-->
+	<img height="125" align="center" src="https://github-readme-stats.vercel.app/api?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" alt="github stats" />
+	<img height="125" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximeuuu&theme=ayu-mirage&hide_border=true" alt="streak stats" />
+	<img height="125" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximeuuu&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact" alt="used languages" />
 </div>
 
 <div align="left">
