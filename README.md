@@ -68,6 +68,9 @@
 		<img src="https://img.shields.io/badge/thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse">
 	</a>
 	<a href="https://maximeuuu.github.io/">
-		<img src="https://img.shields.io/badge/Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projets GitHub">
+		<img src="https://img.shields.io/badge/Projets_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projets GitHub">
+	</a>
+	<a href="https://github.com/Maxime-Universite">
+		<img src="https://img.shields.io/badge/Universite-A24826?style=for-the-badge&logo=github&logoColor=white" alt="Projets Universitaires">
 	</a>
 </div>
